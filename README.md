@@ -17,6 +17,7 @@ git clone https://github.com/rkverma87/AI-ML-Digest.git
 # Index of Contents
 1. [Python](#python)
 2. [Visualization](#visualization)
+3. [Miscellaneous](#Miscellaneous)
 
 ## Python
 
@@ -30,4 +31,13 @@ git clone https://github.com/rkverma87/AI-ML-Digest.git
 |Title | Notebook | Substack | Article
 |--|:--:|:--:|:--:|
 | An Uncommonly Discussed Aspect of Generating Plots using Plotly |[🔗](https://github.com/rkverma87/AI-ML-Digest/blob/main/Visualization/animation_using_plotly.ipynb) | [🔗](https://rkvermaa.substack.com/p/an-uncommonly-discussed-aspect-of)|
+
+## Miscellaneous
+
+|Title | Notebook | Substack | Article
+|--|:--:|:--:|:--:|
+| Analyzing Machine Learning through the Lens of Aristotle’s Form and Matter Philosophy || [🔗](https://rkvermaa.substack.com/p/analyzing-machine-learning-through)|[🔗](https://medium.com/@databhishek87/analyzing-machine-learning-through-the-lens-of-aristotles-form-and-matter-philosophy-36ea53b54a27)
+| What Plato Might Have Thought About Machine Learning || [🔗](https://rkvermaa.substack.com/p/what-plato-might-have-thought-about)|[🔗](https://medium.com/@databhishek87/what-plato-might-have-thought-about-machine-learning-43607b9f9848)
+
+
 
