@@ -24,3 +24,10 @@ git clone https://github.com/rkverma87/AI-ML-Digest.git
 |--|:--:|:--:|:--:|
 | Python Dictionaries: Built-in vs. Default - Which One Should You Use? |[🔗](https://github.com/rkverma87/AI-ML-Digest/blob/main/python/dict_defaultdict.ipynb) | [🔗](https://rkvermaa.substack.com/p/python-dictionaries-built-in-vs-default)|
 | A Python Tutorial on Text-to-Speech Conversion |[🔗](https://github.com/rkverma87/AI-ML-Digest/blob/main/python/text_to_speech.ipynb) | [🔗](https://rkvermaa.substack.com/p/a-python-tutorial-on-text-to-speech)|
+
+## Visualization
+
+|Title | Notebook | Substack | Article
+|--|:--:|:--:|:--:|
+| An Uncommonly Discussed Aspect of Generating Plots using Plotly |[🔗](https://github.com/rkverma87/AI-ML-Digest/blob/main/Visualization/animation_using_plotly.ipynb) | [🔗](https://rkvermaa.substack.com/p/an-uncommonly-discussed-aspect-of)|
+
